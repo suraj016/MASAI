@@ -1,0 +1,25 @@
+.correct{
+  font-weight: bold;
+  color: green;
+  background-color: black;
+}
+.incorrect{
+  font-weight: bold;
+  color: red;
+  background-color: black;
+}
+.correct{
+  font-weight: bold;
+  
+}
+
+body{
+  padding: 15px;
+  background-color: khaki;
+}
+input{
+  width: 100%;
+}
+h1{
+  text-align: center;
+}
